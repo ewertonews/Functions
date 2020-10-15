@@ -5,6 +5,10 @@ A CosmosDB resource was created, with a data base called ***func-io-learn-db*** 
 
 ```json
 {
+    "id": "docs",
+    "url": "https://portal.azure.com"
+}
+{
     "id": "portal",
     "url": "https://portal.azure.com"
 }
